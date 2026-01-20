@@ -19,7 +19,7 @@ Tecnologías Utilizadas: - Lenguaje(s): - Herramientas / Framework: .Net framewo
 
   
 Imágenes de la ejecución del proyecto: 
-(imagenes proyectos/programa1.png)
+(imagenes-proyectos/programa1.png)
 
 
 
