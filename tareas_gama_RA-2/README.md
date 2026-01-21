@@ -19,7 +19,7 @@ Tecnologías Utilizadas: - Lenguaje(s): - Herramientas / Framework: .Net framewo
 
   
 Imágenes de la ejecución del proyecto: 
-(imagenes-proyectos/programa1.png)
+![image alt](https://github.com/kevin-vasquez-dev-5to-d2/C-trabajos/blob/e522a7a26e8f03959ca9d240950fa2d946553b80/imagenes_proyectos/programa1.png)
 
 
 
