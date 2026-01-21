@@ -31,7 +31,16 @@ Imágenes de la ejecución del proyecto:
 ![image alt](https://github.com/kevin-vasquez-dev-5to-d2/C-trabajos/blob/53890e4b1220769b9b386a561013abdb490db765/imagenes_proyectos/programa4.png)
 
 Uso o Ejecución: 
-Describe brevemente cómo ejecutar, instalar o visualizar el proyecto. 
+
+Para ejecutarlo, es necesario tener Visual Studio instalado en la computadora.
+
+Abrir el proyecto desde Visual Studio.
+
+Verificar que el formulario principal (Form1) esté configurado como formulario de inicio.
+
+Presionar el botón Iniciar (F5) para ejecutar la aplicación.
+
+La aplicación se mostrará en una ventana donde el usuario podrá ingresar las cuatro notas y ver los resultados del promedio, completivo o extraordinario.
 
 
 Contexto Académico - Nivel: Secundaria Técnico Profesional 
