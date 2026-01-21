@@ -22,6 +22,8 @@ Imágenes de la ejecución del proyecto:
 ![image alt](https://github.com/kevin-vasquez-dev-5to-d2/C-trabajos/blob/e522a7a26e8f03959ca9d240950fa2d946553b80/imagenes_proyectos/programa1.png)
 
 
+![image alt](https://github.com/kevin-vasquez-dev-5to-d2/C-trabajos/blob/96390da81397e61eced33aba0e26976834b74e41/imagenes_proyectos/programa2.png).
+
 
 
 Uso o Ejecución: 
