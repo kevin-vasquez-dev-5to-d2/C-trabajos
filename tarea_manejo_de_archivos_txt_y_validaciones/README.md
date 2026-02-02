@@ -19,7 +19,7 @@ El programa permite ingresar el ID, nombre, apellidos, dirección, teléfono, em
 
 **2. Mensaje de Alerta**
 > Validación cuando falta un dato obligatorio.
-![Alerta de Validacion](captura_alerta.png)
+![Alerta de Validacion](https://github.com/kevin-vasquez-dev-5to-d2/C-trabajos/blob/7ecce3fe4dfb6d53d01b2307527d8572e0930c3d/imagenes_proyectos/Captura%20de%20pantalla%202026-02-01%20214055.png)
 
 **3. Archivo TXT Generado**
 > Cómo se ven los datos guardados en la tabla.
