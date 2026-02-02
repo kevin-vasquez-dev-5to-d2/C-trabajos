@@ -19,15 +19,12 @@ Lo interesante es que el sistema detecta si el estudiante aprobó o si necesita 
 
 **2. Proceso de Completivo**
 > Si el promedio es bajo, se activa el campo para poner la nota del examen completivo.
-![Examen Completivo](https://github.com/kevin-vasquez-dev-5to-d2/C-trabajos/blob/41787738e3b556e1c93550a5b28fb1864419d1bd/imagenes_proyectos/programa2.png)
+![Examen Completivo](https://github.com/kevin-vasquez-dev-5to-d2/C-trabajos/blob/41787738e3b556e1c93550a5b28fb1864419d1bd/imagenes_proyectos/programa3.png)
 
-**3. Instancia de Extraordinario**
-> En caso de no pasar el completivo, el programa habilita la última oportunidad con el examen extraordinario.
-![Examen Extraordinario](programa3.png)
+**3. Instancia de Extraordinario y Resultado Final**
+> En caso de no pasar el completivo, el programa habilita la última oportunidad con el examen extraordinario y cuando se presiona el boton de calcular promedio da el resultado final
+![Examen Extraordinario](https://github.com/kevin-vasquez-dev-5to-d2/C-trabajos/blob/41787738e3b556e1c93550a5b28fb1864419d1bd/imagenes_proyectos/programa4.png)
 
-**3. Resultado final**
-> Aqui se da el resultado final de si paso o no.
-![Resultado Final](programa4.png)
 
 ## Uso o Ejecución
 1.  Abrir el proyecto en Visual Studio.
